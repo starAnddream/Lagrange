@@ -7,13 +7,13 @@ tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-lizhiguo is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+hi，大家好，我是李智国，出生于云南大理，毕业于西安电子科技大学，目前从事编程、自媒体等相关职业，爱好摄影、区块链、汽车。
 
-## Getting Started12
+## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
-## Example Content2
+## Example Content
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
 
