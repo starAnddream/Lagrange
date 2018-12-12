@@ -3,4 +3,5 @@ layout: page
 title: Contact
 ---
 
-222222If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+如果你有任何问题，可以加我微信：
+<img src="/assets/img/mywechart.jpeg" width="256px" height="320px" style="display:block;margin:20px auto">
