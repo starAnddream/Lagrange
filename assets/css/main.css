@@ -504,3 +504,17 @@ th, td {
   height: 50%;
   flex:1;
 }
+@media only screen and (min-width: 960px) {
+    .appImage img{
+  width: 45%;
+  height: 50%;
+  flex:1;
+  }
+}
+@media only screen and (max-width: 960px) {
+    .appImage img{
+  width: 80%;
+  height: 80%;
+  flex:1;
+  }
+}
