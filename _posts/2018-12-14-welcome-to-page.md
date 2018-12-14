@@ -18,20 +18,21 @@ image: mountains.jpg
 目前主要集中在自媒体写作、软件开发等领域
 
 ### 写作
-* [历史上有哪些打脸的故事？](https://www.zhihu.com/people/lisir-53-90/answers/by_votes/)
-* [买二手车的时候需要注意哪些问题？](https://www.zhihu.com/question/20204087/answer/522936503)
+* 目前主要专注于区块链、人工智能、汽车等行业
+* 欢迎关注知乎专栏 <b><a href="https://zhuanlan.zhihu.com/Bitbi">区块链</a></b>  、 <b><a href="https://zhuanlan.zhihu.com/mycar">车来车往</a></b>
 
 ### 软件
-* 梦想旅行+小程序
+#### 梦想旅行+小程序
 <p>专注于境外旅行的小程序</p>
 <div class="appImage" style="display:flex;flex-direction: row;flex-wrap: wrap;justify-content: space-around;">
 <img src="/assets/img/app1.jpeg" height="320px" style="margin:20px auto">
 <img src="/assets/img/app2.jpeg" height="320px" style="margin:20px auto">
-<img src="/assets/img/app3.jpeg" height="320px" style="margin:20px auto">
-<img src="/assets/img/app4.jpeg" height="320px" style="margin:20px auto">
+<!-- <img src="/assets/img/app3.jpeg" height="320px" style="margin:20px auto">
+<img src="/assets/img/app4.jpeg" height="320px" style="margin:20px auto"> -->
 </div>
-* [恒洁官网](http://www.hegii.com/ )
-<p>一家专注于整体卫浴产品研发、生产、销售、服务的综合性企业官网</p>
+
+#### 恒洁官网
+<p><a href="http://www.hegii.com/">一家专注于整体卫浴产品研发、生产、销售、服务的综合性企业官网</a></p>
 ![alt text](/assets/img/hengjie.jpeg "恒洁官网")
 
 ## 兴趣爱好

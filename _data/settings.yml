@@ -27,6 +27,6 @@ pagination:
 
 sharing_button_prompt: '如果你喜欢，你也可以分享到:'
 
-related_posts: ''
+related_posts: '本文推荐阅读'
 
 post_date_prefix: '写于'
