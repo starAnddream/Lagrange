@@ -499,3 +499,8 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+.appImage img{
+  width: 45%;
+  height: 50%;
+  flex:1;
+}

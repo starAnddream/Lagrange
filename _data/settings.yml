@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: '主页', path: 'menu', url: 'about.html'}
-- {name: '写作', path: 'menu', url: 'writing.html'}
-- {name: '摄影', path: 'menu', url: 'photo.html'}
-- {name: '联系', path: 'menu', url: 'contact.html'}
+- {name: '主页', url: 'index.html'}
+- {name: '写作', url: 'menu/writing.html'}
+- {name: '摄影', url: 'menu/photo.html'}
+- {name: '联系', url: 'menu/contact.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -27,6 +27,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+related_posts: '你也可以分享到:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: '写于'
