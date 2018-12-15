@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-曾就职于百度，辗转于成都、西安等地，现居昆明，一直以来，都从事互联网编程工作，一个偶然的机会，在知乎接触了自媒体，开始从事自媒体写作。
+曾就职于百度，辗转于成都、西安等地，现居昆明，一直以来，都从事互联网编程工作，现在是一名自由职业者。
 
 ## 职业经历
 
@@ -15,10 +15,8 @@ image: mountains.jpg
 
 ## 自由职业之路
 
-目前主要集中在自媒体写作、软件开发等领域
-
 ### 写作
-* 目前主要专注于区块链、人工智能、汽车等行业
+* 目前主要专注于区块链、人工智能、汽车等行业的自媒体写作
 * 欢迎关注知乎专栏 <b><a href="https://zhuanlan.zhihu.com/Bitbi">区块链</a></b>  、 <b><a href="https://zhuanlan.zhihu.com/mycar">车来车往</a></b>
 
 ### 软件
@@ -35,6 +33,4 @@ image: mountains.jpg
 <p><a href="http://www.hegii.com/">一家专注于整体卫浴产品研发、生产、销售、服务的综合性企业官网</a></p>
 ![alt text](/assets/img/hengjie.jpeg "恒洁官网")
 
-## 兴趣爱好
-喜欢旅行、美食，喜欢用相机记录生活的美好
 

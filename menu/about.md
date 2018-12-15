@@ -3,7 +3,6 @@ layout: page
 title: 欢迎来到 smartCountry 的个人网站!
 ---
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
 
 ### Questions?
 
