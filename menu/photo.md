@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Photo
 ---
 <ul class="posts">
   {% for photo in site.data.settings.photoImgs %}
