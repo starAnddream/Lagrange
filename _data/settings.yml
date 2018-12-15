@@ -20,6 +20,19 @@ social:
 - {icon: 'envelope', link: 'mailto:li.smartcountry@gmail.com'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
+photoImgs:
+- {src: car.jpeg}
+- {src: car1.jpeg}
+- {src: cat.jpeg}
+- {src: cat2.jpeg}
+- {src: girl.jpeg}
+- {src: girl-one.jpeg}
+- {src: jiepai1.jpeg}
+- {src: jiepai2.jpeg}
+- {src: small-girl.jpeg}
+- {src: we.jpeg}
+
+
 # Customize site text
 pagination:
   next_page: 'Newer'
