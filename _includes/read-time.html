@@ -11,11 +11,11 @@
 
 {% if post.layout == post %}
   {% assign words = content | number_of_words %}
-  {% if words < 180 %}
+  {% if words < 100 %}
     小于 1 minute
-  {% elsif words < 360 %}
-    1 minute 
+  {% elsif words < 300 %}
+    2 minute 
   {% else %}
-    {{ words | divided_by:180 }} minute 
+    {{ words | divided_by:100 }} minute 
   {% endif %}
 {% endif %}
